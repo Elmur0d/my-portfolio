@@ -32,9 +32,9 @@ const Icon = ({ name, className }) => {
 const MOCK_DATA = {
     name: "Elmurod Doniyorov",
     title: "Software Developer",
-    shortBio: "Sofware developer with tons of information and high level skills to build web apps",
+    shortBio: "Sofware Developer/Frontend Developer",
     about: [
-        "",
+        "I am detail-oriented Frontend Developer with a strong foundation in JavaScript and TypeScript. Proficient in building scalable web aplications using React, Next.js, and Nest.js. Experienced in state management (Redux, MobX, Zustand) and modern styling tools like Tailwind CSS. Currently expanding expertise in Microservices architecture and Java/SQL through academic studies.",
     ],
     socials: [
         { name: "Email", url: "mailto:doniyorovelmurod60@gmail.com", icon: "Email" },
@@ -45,7 +45,7 @@ const MOCK_DATA = {
     projects: [
         {
             title: "Forms-app",
-            description: "An app where you can create temlates with different types of questions, answer to the questions of other templates, write comments, give likes and it also has an admin panel for admins",
+            description: "A full-stack application for creating public and private surveys with a focus on user engagement. Implemented high-speed search functionality using ElasticSearch. Built a dual-theme UI (Light/Dark mode) and multi language support (EN/RU). integrated social features including a comment system, like functionality, and a feedback loop. Developed a comprehensive Admin Panel for content management.",
             techStack: ["Node.js", "React", "Redux"], 
             liveLink: "https://forms-app-rho.vercel.app",
             githubLink: "https://github.com/Elmur0d/forms-app"
